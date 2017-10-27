@@ -1,0 +1,11 @@
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\bin\Debug\netcoreapp2.0\PruebaBackendNet.deps.json
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\bin\Debug\netcoreapp2.0\PruebaBackendNet.runtimeconfig.json
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\bin\Debug\netcoreapp2.0\PruebaBackendNet.runtimeconfig.dev.json
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\bin\Debug\netcoreapp2.0\PruebaBackendNet.dll
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\bin\Debug\netcoreapp2.0\PruebaBackendNet.pdb
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.csprojResolveAssemblyReference.cache
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.csproj.CoreCompileInputs.cache
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.AssemblyInfoInputs.cache
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.AssemblyInfo.cs
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.dll
+C:\Users\reduxrulz\Desktop\PruebaBackendNet\PruebaBackendNet\PruebaBackendNet\obj\Debug\netcoreapp2.0\PruebaBackendNet.pdb
